@@ -1,2 +1,2 @@
-# GDA1-Signup-form
-Client Signup-form made to test validation and RegExp.
+# GDA1-Calculator
+This project helps to exercise on functions and methods of ja used in javascript
